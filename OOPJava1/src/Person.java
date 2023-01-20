@@ -41,7 +41,7 @@ public class Person {
 //    }
 
     public void feed(){
-        System.out.println("--Идем, Пушок, накормлю тебя!");
+        System.out.println("--Идем, котяра, накормлю тебя!");
 
     }
 }
